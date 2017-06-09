@@ -1,0 +1,2 @@
+# CountModifyTimes
+获取到svn日志信息，提取到Bugs信息，提取到含Bugs的克隆代码信息，统计修改克隆代码修改的次数
