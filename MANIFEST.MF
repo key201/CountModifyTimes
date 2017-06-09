@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/IKAnalyzer2012_FF.jar 
+Main-Class: contain.bug.clonecode.extract.BugClone2XmlFileMain 
+
